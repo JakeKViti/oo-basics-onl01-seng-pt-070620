@@ -10,6 +10,6 @@ end
 
 def cobble
  puts "Your shoe is as good as new!"
-condition = enw
+condition = new
 end
 end
