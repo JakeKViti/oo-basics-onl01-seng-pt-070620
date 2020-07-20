@@ -10,6 +10,6 @@ end
 
 def cobble
  puts "Your shoe is as good as new!"
- codition = new
+ :codition = new
 end
 end
