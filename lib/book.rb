@@ -32,7 +32,7 @@ def genre
   @genre
 end
 
-def turn_page
- @page_count+=1
+def turn_page(page)
+ puts "Flipping the page...wow, you read fast!"
 end
 end
