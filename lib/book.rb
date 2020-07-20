@@ -5,24 +5,20 @@ def initialize(title)
 end
 
 def title
-end
   @title
-def
+end
 
 def author=(author)
-end
   @author = author
-def
+end
 
 def page_count=(page_count)
-end
     @page_count = page_count
-def
+end
 
 def genre=(genre)
-end
     @genre = genre
-def
+end
 
 
 end
